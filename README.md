@@ -1,4 +1,4 @@
 # harshagithub
 This is my first git repository
 <br>
-Author- Harshavardhan
+Author- Harshavardhan reddy
